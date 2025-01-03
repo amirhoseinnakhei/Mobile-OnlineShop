@@ -21,11 +21,23 @@ Welcome to the Online Shop! This is a web application that allows users to brows
 To run this project locally, follow these steps:  
 
 Download and Install App
-![Screenshot_2025 01 02_23 26 26 872](https://github.com/user-attachments/assets/8a6f412c-5e10-40cf-ab21-1854766bdac8)
-=========================
-![Screenshot_2025 01 02_23 26 53 890](https://github.com/user-attachments/assets/1c68b522-033b-4ec4-bd65-073d3ddda65a)
-=========================
-![Screenshot_2025 01 02_23 27 34 657](https://github.com/user-attachments/assets/5d3309a6-f43b-4623-92cc-1f3e38e8827b)
-=========================
-![Screenshot_2025 01 02_23 27 29 622](https://github.com/user-attachments/assets/0e61555e-52de-4fcd-925d-52d7f3634430)
+===============================================
+![photo16122395708](https://github.com/user-attachments/assets/2b523a29-a957-4b6a-9388-43f61e576d80)
+===============================================
+![photo16122395793](https://github.com/user-attachments/assets/520e5b83-69ca-4ff9-a7c0-73a27ab20e94)
+===============================================
+![photo16122395801](https://github.com/user-attachments/assets/e2748363-3080-474f-8ac1-bd69bfad8a72)
+===============================================
+![photo16122395911](https://github.com/user-attachments/assets/ae1da2ad-44ee-4ad7-8d70-545a19dc5858)
+===============================================
+![photo16122395953](https://github.com/user-attachments/assets/7ab33284-83c6-490f-a1fb-100025626613)
+===============================================
+![photo16122424888](https://github.com/user-attachments/assets/6cbc42d0-a3c8-4c6e-849a-50c526defde1)
+===============================================
+
+
+
+
+
+
 
