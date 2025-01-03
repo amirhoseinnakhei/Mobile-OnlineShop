@@ -24,9 +24,9 @@ Download and Install App
 ===============================================
 ![photo16122395708](https://github.com/user-attachments/assets/2b523a29-a957-4b6a-9388-43f61e576d80)
 ===============================================
-![photo16122395793](https://github.com/user-attachments/assets/520e5b83-69ca-4ff9-a7c0-73a27ab20e94)
-===============================================
 ![photo16122395801](https://github.com/user-attachments/assets/e2748363-3080-474f-8ac1-bd69bfad8a72)
+===============================================
+![photo16122395793](https://github.com/user-attachments/assets/520e5b83-69ca-4ff9-a7c0-73a27ab20e94)
 ===============================================
 ![photo16122395911](https://github.com/user-attachments/assets/ae1da2ad-44ee-4ad7-8d70-545a19dc5858)
 ===============================================
